@@ -1,5 +1,5 @@
 # Huguitis Nodes
-Huguitis Nodes is a hosting service that provides a wide variety of types of vps, dedicated servers and shared hosting.
+Huguitis Nodes is a high quality hosting provider that offers services for discord bots, databases, games and more.
 
 - [Discord Server](https://discord.gg/CVbPZRt9yG)
 - Email: mail@huguitisnodes.host
